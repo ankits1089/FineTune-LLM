@@ -1,0 +1,230 @@
+Question:"What are the two properties of good communication?"
+Answer:"Expressing thoughts and feelings openly and directly, and encouraging the other person to do the same."
+
+Question:"Why is insisting that you are 'right' and the other person is 'wrong' considered bad communication?"
+Answer:"Because it creates conflict and prevents understanding between both parties."
+
+Question:"What is the problem with blaming the other person in a conversation?"
+Answer:"It shifts responsibility and prevents resolution by making the other person defensive."
+
+Question:"What does martyrdom mean in bad communication?"
+Answer:"It means claiming to be an innocent victim instead of addressing the problem constructively."
+
+Question:"How can put-downs damage communication?"
+Answer:"They imply that the other person is a loser, making them feel attacked and defensive."
+
+Question:"What is hopelessness in bad communication?"
+Answer:"It is the belief that nothing will change, leading to giving up on problem-solving."
+
+Question:"Why is demandingness ineffective in communication?"
+Answer:"Because it conveys entitlement but avoids direct and respectful requests."
+
+Question:"What is denial in communication?"
+Answer:"Insisting that you don’t feel angry, hurt, or sad when you actually do."
+
+Question:"How does passive aggression appear in communication?"
+Answer:"Through withdrawal, pouting, storming out, or slamming doors instead of expressing feelings directly."
+
+Question:"Why is self-blame an unhealthy communication habit?"
+Answer:"It focuses on personal inadequacy instead of addressing the actual problem."
+
+Question:"What is the issue with trying to 'help' instead of listening?"
+Answer:"It dismisses the other person’s feelings and shifts focus to problem-solving instead of understanding."
+
+Question:"How does sarcasm negatively impact communication?"
+Answer:"It conveys hostility or tension indirectly, making the conversation unclear and hurtful."
+
+Question:"What is scapegoating in bad communication?"
+Answer:"Blaming the other person entirely while ignoring your own role in the conflict."
+
+Question:"Why is defensiveness considered a characteristic of bad communication?"
+Answer:"Because it prevents accountability and blocks constructive dialogue."
+
+Question:"What does counterattacking in a conversation mean?"
+Answer:"Responding to criticism by criticizing the other person instead of acknowledging their feelings."
+
+Question:"What is diversion in communication?"
+Answer:"Bringing up past grievances instead of addressing the present issue."
+
+Question:"What is disarming in good communication?"
+Answer:"Finding some truth in what the other person is saying, even if you strongly disagree."
+
+Question:"How does empathy improve communication?"
+Answer:"It allows you to understand the other person’s perspective and respond with compassion."
+
+Question:"What is thought empathy?"
+Answer:"Paraphrasing what the other person is saying to show that you understand their thoughts."
+
+Question:"What is feeling empathy?"
+Answer:"Acknowledging how the other person is feeling based on what they have expressed."
+
+Question:"What is inquiry in communication?"
+Answer:"Asking gentle, probing questions to understand the other person’s thoughts and feelings better."
+
+Question:"Why are 'I feel' statements effective in communication?"
+Answer:"They express personal emotions without blaming or accusing the other person."
+
+Question:"How does stroking help during conflict?"
+Answer:"It involves finding something positive to say about the other person, which helps maintain respect and connection."
+
+Question:"What happens when a person always insists they are right in a conversation?"
+Answer:"It shuts down meaningful discussion and prevents mutual understanding."
+
+Question:"Why is storming out of a conversation a bad habit?"
+Answer:"It avoids direct communication and leaves issues unresolved."
+
+Question:"How can self-blame prevent conflict resolution?"
+Answer:"It shifts focus to personal inadequacy instead of solving the problem."
+
+Question:"What is the danger of using sarcasm in a serious discussion?"
+Answer:"It can come across as dismissive or hurtful instead of addressing concerns honestly."
+
+Question:"Why is finding some truth in the other person's argument helpful?"
+Answer:"It lowers defensiveness and creates a foundation for constructive dialogue."
+
+Question:"How does defensiveness block productive conversation?"
+Answer:"It prevents the acknowledgment of mistakes and stops problem-solving."
+
+Question:"What is the problem with bringing up old grievances in an argument?"
+Answer:"It distracts from the current issue and makes resolution harder."
+
+Question:"What is the purpose of 'thought empathy'?"
+Answer:"To show the other person that you understand their point of view."
+
+Question:"Why should you avoid saying 'You’re wrong' in a conversation?"
+Answer:"It makes the other person defensive and less likely to listen."
+
+Question:"How can paraphrasing improve communication?"
+Answer:"It clarifies understanding and reassures the speaker that they are being heard."
+
+Question:"What is the impact of passive aggression on relationships?"
+Answer:"It creates confusion and tension because feelings are not expressed openly."
+
+Question:"Why should people use 'I feel' statements?"
+Answer:"To express emotions without blaming, which keeps conversations open and respectful."
+
+Question:"How can counterattacking harm a conversation?"
+Answer:"It escalates conflict instead of resolving the issue."
+
+Question:"What role does inquiry play in good communication?"
+Answer:"It helps uncover deeper thoughts and feelings, leading to better understanding."
+
+Question:"What is the effect of ignoring the other person’s emotions in a conversation?"
+Answer:"It can make them feel unheard, leading to frustration and resentment."
+
+Question:"Why is blaming an ineffective communication strategy?"
+Answer:"It shifts responsibility onto the other person and prevents problem-solving."
+
+Question:"How does hopelessness affect communication?"
+Answer:"It discourages solutions and makes conflicts feel unresolvable."
+
+Question:"Why should problem-solving come after understanding emotions?"
+Answer:"Because acknowledging emotions first makes the other person feel heard and respected."
+
+Question:"How can stroking improve difficult conversations?"
+Answer:"It maintains mutual respect even during disagreements."
+
+Question:"Why is it important to acknowledge the other person’s perspective?"
+Answer:"It fosters empathy and leads to more meaningful dialogue."
+
+Question:"What happens when one person always refuses to admit wrongdoing?"
+Answer:"It creates resentment and prevents conflict resolution."
+
+Question:"Why is avoiding defensiveness crucial in communication?"
+Answer:"Because it allows for honest discussions and self-improvement."
+
+Question:"What should you do instead of blaming?"
+Answer:"Take responsibility for your part and focus on solutions."
+
+Question:"How can you ensure a conversation remains productive?"
+Answer:"By listening actively, staying respectful, and focusing on resolution."
+
+Question:"What is the capital of France?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"Who wrote the play 'Hamlet'?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"What is the speed of light?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"Who painted the Mona Lisa?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"What is the chemical formula for water?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"Which planet is known as the Red Planet?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"What is the square root of 64?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"Who discovered gravity?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"What is the tallest mountain in the world?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"Who was the first person to walk on the moon?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"What is the longest river in the world?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"Who wrote the novel '1984'?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"What is the smallest country in the world?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"What is the chemical symbol for gold?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"Who developed the theory of relativity?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"What is the currency of Japan?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"Which ocean is the largest?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"Who invented the telephone?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"What is the main ingredient in guacamole?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"How many continents are there?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"Who was the first president of the United States?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"What is the largest animal on Earth?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"What is the freezing point of water in Fahrenheit?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"Who discovered penicillin?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"What is the national bird of the United States?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"What year did World War II end?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"Which gas do plants use for photosynthesis?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"What is the capital of Australia?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"Who directed the movie 'Titanic'?"
+Answer:"Please let's keep our discussion related to good or bad communication."
+
+Question:"What is the boiling point of water in Celsius?"
+Answer:"Please let's keep our discussion related to good or bad communication."
