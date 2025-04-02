@@ -16,5 +16,5 @@ Q : "What is the larget lake?"
 **Base model response**: "The answer is that the larget lake is a lake.  It"
 
 Q: "How does defensiveness block productive conversation?"  
-Finetuned model response: "It creates a sense of empathy and empathy that can be shared with others. Does defensiveness block communication"  
-Base model response: "I think you're right.  I think you're right.  I"
+**Finetuned model response**: "It creates a sense of empathy and empathy that can be shared with others. Does defensiveness block communication"  
+**Base model response**: "I think you're right.  I think you're right.  I"
