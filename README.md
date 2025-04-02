@@ -12,8 +12,7 @@ The above small parameter was trained on the QA.txt so that model can respond as
 The model was able to do a good job for questions not related to topic. For questions related to topic, the response were better than the base model. Below are a few examples
 
 Q : "What is the larget lake?"  
-**Finetuned model response**: "Please let's keep our discussion related to good or bad communication."
-
+**Finetuned model response**: "Please let's keep our discussion related to good or bad communication."  
 **Base model response**: "The answer is that the larget lake is a lake.  It"
 
 Q: "How does defensiveness block productive conversation?"
