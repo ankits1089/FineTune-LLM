@@ -18,3 +18,35 @@ Q : "What is the larget lake?"
 Q: "How does defensiveness block productive conversation?"  
 **Finetuned model response**: "It creates a sense of empathy and empathy that can be shared with others. Does defensiveness block communication"  
 **Base model response**: "I think you're right.  I think you're right.  I"
+
+### Finetune using LoRA
+Model : facebook/opt-350m
+The above model was trained which is significantly larger than earlir 70m model.
+
+Below are the results:
+
+Q : "What is the larget lake?"  
+**Finetuned model response**: "Please let's keep our discussion related to good or bad communication.Please let's keep our discussion related"  
+**Base model response**: "Lake of the Gods."
+
+Q: "What is feeling empathy?"  
+**Finetuned model response**: "It helps you understand the other person’s point of view.It helps you understand their point of view.It"  
+**Base model response**: "What is feeling empathy?
+
+What is feeling empathy?
+
+What is feeling empathy?
+
+What"
+
+__Note__: In the model finetuned by LoRA, we can see repitition which can be changed by sampling technique as of now default is being used.
+
+#### LoRA vs Full Training:
+LoRA - The total parameters trained were 26m out of 350m (7%) when lm_head was also changed. When lm_head was not trained then the total paramters trained were only 7m.  
+Both with and without lm_head were giving similar results.  
+  
+Full training: All the 70m parameters were trained. So a smaller model was chosen.  
+  
+Results are similar in both.
+
+
